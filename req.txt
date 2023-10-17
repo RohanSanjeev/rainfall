@@ -1,0 +1,9 @@
+sklearn
+pandas
+matplotlib
+tensorflow
+prophet
+pandas
+statsmodels
+plotly
+matplotlib
